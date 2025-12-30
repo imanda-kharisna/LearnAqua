@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Palette -->
+    <color name="aqua_primary">#00B4DB</color>
+    <color name="aqua_dark">#0083B0</color>
+    <color name="aqua_light">#E0F7FA</color>
+    
+    <!-- Neutral Colors -->
+    <color name="bg_light">#F8FDFF</color>
+    <color name="text_primary">#1A237E</color>
+    <color name="text_secondary">#546E7A</color>
+    <color name="unlocked_green">#4CAF50</color>
+    
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+</resources>

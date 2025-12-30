@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">LearnAqua</string>
+    <string name="hydrolearn">HydroLearn</string>
+    <string name="target_minum_hari_ini">Target minum hari ini</string>
+    <string name="_0_1200_ml">0 / 1200 ml</string>
+    <string name="minum_air">MINUM AIR</string>
+    <string name="_100_ml">100 ml</string>
+    <string name="_200_ml">200 ml</string>
+    <string name="_300_ml">300 ml</string>
+    
+    <!-- Dialog Quick Add -->
+    <string name="tambah_air_minum">Tambah Air Minum</string>
+    <string name="atau_jumlah_custom_ml">Atau jumlah custom (ml)</string>
+    <string name="contoh_250">Contoh: 250</string>
+    <string name="tambah">Tambah</string>
+
+    <!-- Stats -->
+    <string name="total_hari_ini">Total Hari Ini</string>
+    <string name="_900_ml">900 ml</string>
+    <string name="statistik_mingguan">Statistik Mingguan</string>
+
+    <!-- Settings -->
+    <string name="pengaturan">Pengaturan</string>
+    <string name="dark_mode">Mode Gelap</string>
+    <string name="mode_tidur">Mode Tidur</string>
+</resources>
